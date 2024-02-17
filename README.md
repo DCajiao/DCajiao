@@ -15,6 +15,19 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,postgres,docker,vscode,git,github,md"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,fastapi,flask"/><br>
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,heroku,cloudflare,bash,postman,vscode"><br> 
+</div>
+
+
+
 <!--
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -79,7 +92,7 @@
 </div>
 <br>
 
----
+
 
 <br>
 <br>
@@ -115,12 +128,9 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
-<div align='center'>
 <!--
+<div align='center'>
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 </div>
 <br>
@@ -130,16 +140,6 @@
 -->
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,postgres,docker,vscode,git,github,md"/><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,fastapi,flask"/><br>
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,heroku,cloudflare,bash,postman,vscode"><br> 
-</div>
-<hr/>
-
----
 <!--
 <h2 align="center">⚡ Stats ⚡</h2>
 
@@ -149,6 +149,5 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCajiao&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 -->
 <hr/>
