@@ -122,18 +122,13 @@
 <div align='center'>
 <!--
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
 </div>
 <br>
 <br>
 <br>
 <br>
-
----
-
----
-
 -->
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
