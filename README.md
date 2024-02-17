@@ -120,7 +120,7 @@
 <br>
 
 <div align='center'>
-
+<!--
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
@@ -133,7 +133,7 @@
 
 ---
 
----
+-->
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
@@ -145,7 +145,7 @@
 <hr/>
 
 ---
-
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
@@ -155,6 +155,5 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCajiao&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
----
-
+-->
 <hr/>
