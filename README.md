@@ -53,7 +53,7 @@
 <div>
     <picture>
         <source media="(max-width: 767px)" srcset="">
-        <img align="right" alt="" src="assets/data.gif" width=300px>
+        <img align="right" alt="" src="assets/data.gif" width=250px>
     </picture>
     <ul>
         <li><a href="https://linkedin.com/in/dcajiao" target="_blank"><img src="https://img.shields.io/badge/linkedin:  dcajiao-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/></a></li>
