@@ -9,7 +9,7 @@
 
 <br>
 <div style="display: flex;">
-    <div style="flex: 1; margin-right: 20px;">
+    <div style="flex: 1; margin-right: 0px;">
         <h3>Passionate Data Scientist, Data Analyst and Data Engineer.</h3>
         <ul>
             <li>Currently working as Data Scientist at <a href="https://www.linkedin.com/company/romboost/">Romboost</a>.</li>
@@ -19,7 +19,7 @@
         </ul>
     </div>
     <div style="flex: 1;">
-        <picture><img src="assets/programmer.gif" width="auto" height="280" frameBorder="0"></picture>
+        <picture><img src="assets/programmer.gif" width="300" height="250" frameBorder="0"></picture>
     </div>
 </div>
 
@@ -38,10 +38,10 @@
 <br>
 
 <div align="center">
-  <img width=420 src="https://github-readme-stats.vercel.app/api?username=DCajiao&theme=radical&hide_border=false&include_all_commits=true&count_private=false&border_radius=10&line_height=23" alt="streak stats"/>
-  <img width=433 src="https://github-readme-streak-stats.herokuapp.com/?user=DCajiao&theme=radical&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=DCajiao&theme=radical&hide_border=false&include_all_commits=true&count_private=false&border_radius=10&line_height=23" alt="streak stats"/>
+  <img width=413 src="https://github-readme-streak-stats.herokuapp.com/?user=DCajiao&theme=radical&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
   <br/>
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCajiao&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10&line_height=23" alt="top langs" />
+  <img width=280 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCajiao&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10&line_height=23" alt="top langs" />
 </div>
 
 <br>
@@ -52,7 +52,7 @@
 <br>
 
 <div style="display: flex; margin-top: 20px;">
-    <div style="flex: 1; margin-right: 20px;">
+    <div style="flex: 1; margin-right: 0px;">
         <ul>
             <li><a href="https://linkedin.com/in/dcajiao" target="_blank"><img src="https://img.shields.io/badge/linkedin:  dcajiao-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/></a></li>
             <li><a href="https://www.instagram.com/dcajiao_/" target="_blank"><img src="https://img.shields.io/badge/instagram:  DCajiao-%2300acee.svg?color=e30c7c&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;"/></a></li>
@@ -60,7 +60,7 @@
         </ul>
     </div>
     <div style="flex: 1;">
-        <picture><img src="assets/data.gif" width="auto" height="300" frameBorder="0"></picture>
+        <picture><img src="assets/data.gif" width="250" height="250" frameBorder="0"></picture>
     </div>
 </div>
 
