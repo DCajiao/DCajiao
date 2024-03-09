@@ -20,7 +20,6 @@
             <li>Talented Web Developer</li>
             <li>Personal Website <a href="https://dcajiao.onrender.com">DCajiao</a></li>
         </ul>
-    
 </div>
 
 <img src="assets/divider.gif"><br><br>
@@ -51,20 +50,16 @@
 
 <br>
 
-<div style="display: flex; margin-top: 20px;">
-    <div style="flex: 1; margin-right: 0px;">
-        <ul>
-            <li><a href="https://linkedin.com/in/dcajiao" target="_blank"><img src="https://img.shields.io/badge/linkedin:  dcajiao-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/></a></li>
-            <li><a href="https://www.instagram.com/dcajiao_/" target="_blank"><img src="https://img.shields.io/badge/instagram:  DCajiao-%2300acee.svg?color=e30c7c&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;"/></a></li>
-            <li><a href="mailto:dcajiaolazt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail:  dcajiao-%23EA4335.svg?color=e34133&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" /></a></li>
-        </ul>
-    </div>
-    <div style="flex: 1;">
-        <picture>
-            <source media="(max-width: 767px)" srcset="">
-            <img align="right" alt="" src="assets/data.gif" width=300px>
-        </picture>
-    </div>
+<div>
+    <picture>
+        <source media="(max-width: 767px)" srcset="">
+        <img align="right" alt="" src="assets/data.gif" width=300px>
+    </picture>
+    <ul>
+        <li><a href="https://linkedin.com/in/dcajiao" target="_blank"><img src="https://img.shields.io/badge/linkedin:  dcajiao-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/></a></li>
+        <li><a href="https://www.instagram.com/dcajiao_/" target="_blank"><img src="https://img.shields.io/badge/instagram:  DCajiao-%2300acee.svg?color=e30c7c&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;"/></a></li>
+        <li><a href="mailto:dcajiaolazt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail:  dcajiao-%23EA4335.svg?color=e34133&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" /></a></li>
+    </ul>
 </div>
 
 <br>
