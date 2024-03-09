@@ -19,7 +19,10 @@
         </ul>
     </div>
     <div style="flex: 1;">
-        <picture><img src="assets/programmer.gif" width="300" height="250" frameBorder="0"></picture>
+        <picture>
+            <source media="(max-width: 767px)" srcset="">
+            <img align="right" alt="" src="assets/programmer.gif" width=320px>
+        </picture>
     </div>
 </div>
 
@@ -60,7 +63,10 @@
         </ul>
     </div>
     <div style="flex: 1;">
-        <picture><img src="assets/data.gif" width="250" height="250" frameBorder="0"></picture>
+        <picture>
+            <source media="(max-width: 767px)" srcset="">
+            <img align="right" alt="" src="assets/data.gif" width=300px>
+        </picture>
     </div>
 </div>
 
