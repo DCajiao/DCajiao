@@ -8,20 +8,19 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-<div style="display: flex;">
-    <div style="flex: 1; margin-right: 0px;">
-        <h3>Passionate Data Scientist, Data Analyst and Data Engineer.</h3>
+<div>
+    <picture>
+        <source media="(max-width: 767px)" srcset="">
+        <img align="right" alt="" src="assets/programmer.gif" width=320px>
+    </picture>
+        <h3>Passionate Data Scientist, Data Analyst and Data Engineer.</h3><br>
         <ul>
             <li>Currently working as Data Scientist at <a href="https://www.linkedin.com/company/romboost/">Romboost</a>.</li>
             <li>Currently Data Engineering and Artificial Intelligence student.</li>
             <li>Talented Web Developer</li>
             <li>Personal Website <a href="https://dcajiao.onrender.com">DCajiao</a></li>
         </ul>
-    </div>
-    <picture>
-        <source media="(max-width: 767px)" srcset="">
-        <img align="right" alt="" src="assets/programmer.gif" width=320px>
-    </picture>
+    
 </div>
 
 <img src="assets/divider.gif"><br><br>
