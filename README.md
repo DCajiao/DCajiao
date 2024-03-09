@@ -18,12 +18,10 @@
             <li>Personal Website <a href="https://dcajiao.onrender.com">DCajiao</a></li>
         </ul>
     </div>
-    <div style="flex: 1;">
-        <picture>
-            <source media="(max-width: 767px)" srcset="">
-            <img align="right" alt="" src="assets/programmer.gif" width=320px>
-        </picture>
-    </div>
+    <picture>
+        <source media="(max-width: 767px)" srcset="">
+        <img align="right" alt="" src="assets/programmer.gif" width=320px>
+    </picture>
 </div>
 
 <img src="assets/divider.gif"><br><br>
