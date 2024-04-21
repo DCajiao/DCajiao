@@ -29,7 +29,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,postgres,docker,vscode,git,github,md"/><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,fastapi,flask"/><br>
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,heroku,cloudflare,bash,postman,vscode"><br> 
+    <img src="https://skillicons.dev/icons?i=azure,gcp,heroku,cloudflare,bash,postman,vscode"><br> 
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -53,7 +53,7 @@
 <div>
     <picture>
         <source media="(max-width: 767px)" srcset="">
-        <img align="right" alt="" src="assets/data.gif" width=250px>
+        <img align="right" alt="" src="assets/monkey.gif" width=400px>
     </picture>
     <ul>
         <li><a href="https://linkedin.com/in/dcajiao" target="_blank"><img src="https://img.shields.io/badge/linkedin:  dcajiao-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/></a></li>
