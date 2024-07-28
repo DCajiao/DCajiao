@@ -27,7 +27,7 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,postgres,docker,vscode,git,github,md"/><br>
+    <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,postgres,docker,git,github,md"/><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,fastapi,flask"/><br>
     <img src="https://skillicons.dev/icons?i=azure,gcp,heroku,cloudflare,bash,postman,vscode"><br> 
 </div>
