@@ -27,9 +27,8 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,postgres,docker,git,github,md"/><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,fastapi,flask"/><br>
-    <img src="https://skillicons.dev/icons?i=azure,gcp,heroku,cloudflare,bash,postman,vscode"><br> 
+    <img src="https://skillicons.dev/icons?i=py,docker,kubernetes,git,github,md,sklearn,tensorflow,mysql,mongodb,postgres,redis,html,css,tailwind,javascript,typescript,react,vue,bootstrap,astro,laravel,figma,npm,pnpm,nodejs,express,fastapi,flask,nginx,wordpress,gcp,aws,azure,heroku,cloudflare,firebase,supabase,bash,postman,vscode,sublime,stackoverflow,notion,obsidian,&perline=12"/><br>
+
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
