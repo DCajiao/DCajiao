@@ -5,7 +5,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=David+Alejandro+Cajiao+Lazt;++;Front-End+and+Back-end+Developer,;Data+Engineering+and+AI+Student,;Data+Analyst,;Data+Scientist,;Python+Dev,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 <div>
@@ -20,7 +20,7 @@
             <li>Talented Web Developer</li>
             <li>Personal Website <a href="https://dcajiao.onrender.com">DCajiao</a></li>
         </ul>
-</div>
+</div> -->
 
 <img src="assets/divider.gif"><br><br>
 
