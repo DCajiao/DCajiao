@@ -27,7 +27,7 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,docker,kubernetes,git,github,md,sklearn,tensorflow,mysql,mongodb,postgres,redis,html,css,tailwind,javascript,typescript,react,vue,bootstrap,astro,laravel,figma,npm,pnpm,nodejs,express,fastapi,flask,nginx,wordpress,gcp,aws,azure,heroku,cloudflare,firebase,supabase,bash,postman,vscode,sublime,stackoverflow,notion,obsidian,&perline=12"/><br>
+    <img src="https://skillicons.dev/icons?i=py,docker,kubernetes,git,github,md,sklearn,tensorflow,mysql,mongodb,postgres,redis,html,css,tailwind,javascript,typescript,react,vue,bootstrap,astro,php,laravel,figma,npm,pnpm,nodejs,express,fastapi,flask,nginx,wordpress,gcp,aws,azure,heroku,firebase,cloudflare,supabase,bash,postman,vscode,sublime,stackoverflow,notion,obsidian&perline=12"/><br>
 
 </div>
 
